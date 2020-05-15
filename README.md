@@ -1,4 +1,4 @@
 # OCaml-Interpreter
-An interpreter for a small, OCaml-like, stackbased bytecode language.
+### An interpreter for a small, OCaml-like, stackbased bytecode language.
 
-Made for my Programming Languages course
+Made for my CSE305 Programming Languages course
